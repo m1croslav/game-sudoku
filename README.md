@@ -1,5 +1,5 @@
 # Sudoku Solver in Aleo
-
+Discord : m1croslav
 This is a Sudoku Solver program implemented in the Aleo programming language. It provides the ability to check whether a given Sudoku board is complete and adheres to the rules of Sudoku. Sudoku is a popular logic-based number placement puzzle. The objective is to fill a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 grids that compose the grid contain all of the digits from 1 to 9.
 
 ## Program Structure
